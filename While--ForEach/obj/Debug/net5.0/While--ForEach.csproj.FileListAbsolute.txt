@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\proglama system\While--ForEach\bin\Debug\net5.0\While--ForEach.exe
+C:\Users\HP\Documents\proglama system\While--ForEach\bin\Debug\net5.0\While--ForEach.deps.json
+C:\Users\HP\Documents\proglama system\While--ForEach\bin\Debug\net5.0\While--ForEach.runtimeconfig.json
+C:\Users\HP\Documents\proglama system\While--ForEach\bin\Debug\net5.0\While--ForEach.runtimeconfig.dev.json
+C:\Users\HP\Documents\proglama system\While--ForEach\bin\Debug\net5.0\While--ForEach.dll
+C:\Users\HP\Documents\proglama system\While--ForEach\bin\Debug\net5.0\ref\While--ForEach.dll
+C:\Users\HP\Documents\proglama system\While--ForEach\bin\Debug\net5.0\While--ForEach.pdb
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.AssemblyInfo.cs
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.dll
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\ref\While--ForEach.dll
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.pdb
+C:\Users\HP\Documents\proglama system\While--ForEach\obj\Debug\net5.0\While--ForEach.genruntimeconfig.cache
